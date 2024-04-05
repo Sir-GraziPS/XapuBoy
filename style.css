@@ -1,0 +1,101 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'OldLondon' ;
+  src: url('Olondon_.otf');
+}
+
+div {
+    border: 0.8rem outset #edbc1a;
+    border-radius: 12px;
+    font: bold 2rem sans-serif;
+    margin: 4rem;
+    padding: 2rem;
+    outline-offset: 0.5rem;
+    font-size: 45px;
+    margin-left: 40px;
+    margin-right: 50px;
+    font-family: 'OldLondon';
+   
+  }
+
+  #a{
+    color: red;
+  }
+  #b{
+    color: orange;
+  }
+  #c{
+    color:yellow;
+  }
+  #d{
+    color:green;
+  }
+  #e{
+    color:blue;
+  }
+  #f{
+    color: indigo;
+  }
+  #g{
+    color:violet;
+  }
+  
+  body{
+    font-family: 'OldLondon';
+    background: black;
+    color: white;
+    font-size: 25px;
+
+  
+  }
+  
+  .ca ol{
+    padding: 5;
+    list-style: none;  
+    display: flex;
+    justify-content: space-around;
+    background-color: #edbc1a;
+    font-size: 25px;
+    margin-left: 20px;
+  
+  }
+  
+  .ca ol li:hover{
+    background-color: #c79f1a;
+    padding: 5;
+    color:black;
+  }
+  .element{
+    background-color: white;
+    width: 1000px;
+    height: 1000px;
+    color: white;
+  }
+
+  .ce{
+    margin-left: 30px;
+  }
+  #ti{
+    border-style: dashed;
+    border-color: #c79f1a;
+  }
+  #nho{
+    font-size: 25px;
+    margin-bottom: 150px;
+  }
+  img{
+    float: left;
+  }
+  .bo{
+    width: 10000;
+    height: 30;
+  }
+  
+
+  
+/*.ui{
+    padding: 5;
+    justify-content: space-around;
+    background-color: #edbc1a;
+
+  }
